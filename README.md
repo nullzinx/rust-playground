@@ -1,4 +1,4 @@
-#🦀 Learning Rust
+# 🦀 Learning Rust
 
 ## What is this repository?
 
